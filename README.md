@@ -9,7 +9,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Acredito que a programação é uma ferramenta poderosa para resolver problemas e criar soluções inovadoras.
 
 - 🔭 Atualmente trabalhando em: **toke out tours**
-- 🌱 Aprendendo: **C, C++, Python**
+- 🌱 Aprendendo: **C, C++, Python, Java**
 - 💬 Pergunte-me sobre: **JavaScript, Python, React, Node.js Html, PHP**
 - 📫 Como me encontrar: **gabrielme2000.gm@gmail.com**
 - ⚡ Curiosidade: **Linguagens de Programação**
