@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Gabriel Menezes
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mim
@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 - 🔭 Atualmente trabalhando em: **toke out tours**
 - 🌱 Aprendendo: **C, C++, Python, Java**
-- 💬 Pergunte-me sobre: **JavaScript, Python, React, Node.js Html, PHP**
+- 💬 Pergunte-me sobre: **JavaScript, Python, React, Node.js, HTML, PHP**
 - 📫 Como me encontrar: **gabrielme2000.gm@gmail.com**
 - ⚡ Curiosidade: **Linguagens de Programação**
 
@@ -32,7 +32,6 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -40,9 +39,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Banco de Dados
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
 
 ### DevOps e Ferramentas
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -67,21 +64,17 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 ### Cursos
 - **Desenvolvimento Web Full Stack** — Master D
 
-
 ## 🤝 Vamos nos Conectar!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-menezes-076767196)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-menezes-076767196)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel_menezes28)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielme2000.gm@gmail.com)
 
 </div>
 
-
-
 ---
-
 
 ## 📄 Licença
 
@@ -90,5 +83,6 @@ Este README está sob a licença MIT. Sinta-se livre para usar como inspiração
 ---
 
 <div align="center">
-  Feito com ❤️ e muito ☕
+	Feito com ❤️ e muito ☕
 </div>
+
